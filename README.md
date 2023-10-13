@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @neoming
-- 👀 I’m interested in system programming and edge AI
+- 👋 Hi, I’m @neoming. Now work at @Verisilicon as GPU Compiler Engineer.
+- 👀 I’m interested in system programming and AI
 - 🌱 I’m currently learning rCore, OpenAI Triton
 - 💞️ I’m looking to collaborate on rCore
 - 📫 How to reach me liyiming1998@qq.com
