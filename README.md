@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neoming. Now work at @Verisilicon as GPU Compiler Engineer.
 - 👀 I’m interested in system programming and AI
-- 🌱 I’m currently learning rCore, OpenAI Triton
-- 💞️ I’m looking to collaborate on rCore
+- 🌱 I’m currently learning MindNLP, OpenAI Triton
+- 💞️ I’m also learning how to write linux kernel with rust
 - 📫 How to reach me liyiming1998@qq.com
 
 <!---
