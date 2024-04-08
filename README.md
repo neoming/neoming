@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @neoming. Intern at @Nvidia as an AI software engineer. Now work as Compiler Engineer.
+- 👋 Hi, I’m @neoming. Intern at @Nvidia as an AI software engineer. Now work as an Compiler Engineer.
 - 👀 I’m interested in system programming and AI
-- 🌱 I’m currently learning vulkan
-  , MLIR
+- 🌱 I’m currently learning vulkan, MLIR, LLM
 - 💞️ I’m also write some toy using rust
 - 📫 How to reach me liyiming1998@qq.com
 
