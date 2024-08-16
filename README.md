@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neoming. Intern at @Nvidia as an AI software engineer. Now work as an GPU Compiler Engineer @VeriSilicon.
+- 👋 Hi, I’m @neoming. Now work as an GPU Compiler Engineer.
 - 👀 I’m interested in system programming and AI
 - 🌱 I’m currently working on mindnlp for LLM.
 - 💞️ I’m also write some toy using rust
